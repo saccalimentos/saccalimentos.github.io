@@ -1,0 +1,62 @@
+body {
+    background-image: url("Imágenes/fondo.jpg");
+}
+
+#Arriba {
+    background-color: rgb(34, 134, 165);
+    margin: 0;
+}
+
+#Logo {
+    display: block;
+    margin: 0 auto;
+}
+
+#Links {
+    font-family:'Helvetica';
+    color: rgb(15, 69, 85);  
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+    gap: 150px;
+}
+
+#II {
+    color:rgb(177, 193, 207);
+    text-decoration: none;
+}
+
+#SN {
+    color:rgb(177, 193, 207);
+    text-decoration: none;
+}
+
+#CC {
+    color:rgb(177, 193, 207);
+    text-decoration: none;
+}
+
+#TituloProductos {
+    font-family:'Helvetica';
+    text-align: center;
+    color: rgb(15, 69, 85);  
+}
+
+#Productos {
+    font-family:'Helvetica';
+    font-weight: bold;
+    color: rgb(30, 89, 107);  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+    gap: 30px;
+}
+
+#TextoFooter {
+    font-family:'Arial';
+    text-align: center;
+    color: rgb(99, 99, 99);  
+}
